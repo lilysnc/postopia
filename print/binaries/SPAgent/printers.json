@@ -1,0 +1,24 @@
+﻿{
+    "printers": [
+        {
+            "name": "Xerox 495cf 2호기",
+            "driver": "TiMS OCVP2110",
+            "trays": [
+                {
+                    "name": "210X297",
+                    "paperSource": "Plain A4"
+                }
+            ]
+        },
+        {
+            "name": "Xerox 700-DCP 2호기",
+            "driver": "TiMS OCVP2110",
+            "trays": [
+                {
+                    "name": "230X110",
+                    "paperSource": "Plain A3"
+                }
+            ]
+        }
+    ]
+}

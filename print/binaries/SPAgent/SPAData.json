@@ -1,0 +1,525 @@
+﻿{
+    "JobTicket": {
+        "JOB_NO": "J1",
+        "data": {
+            "PS": {
+                "JOB": [
+                    {
+                        "JOBDATE": [
+                            "20160819"
+                        ],
+                        "CENTERNAME": [
+                            "의정부"
+                        ],
+                        "JOBNO": "J1",
+                        "RECEIPTMSTTYPE": [
+                            "E"
+                        ],
+                        "POSTTYPE": [
+                            "소봉투 / 표준 소형 무창 / 표준용지 / 흑백단면"
+                        ],
+                        "DELIVERYPDTTYPE": [
+                            "일반"
+                        ],
+                        "RECEIPTPDTTYPE": [
+                            "일반"
+                        ],
+                        "TONGCOUNT": [
+                            "29"
+                        ],
+                        "TOTALCOUNT": [
+                            "29"
+                        ],
+                        "DMCOUNT": [
+                            "0"
+                        ],
+                        "DMYN": [
+                            ""
+                        ],
+                        "ADDRESSSORT": [
+                            "Y"
+                        ],
+                        "TARGETDATE": [
+                            ""
+                        ],
+                        "JOBREMARK": [
+                            "테스트입니다.출력하지말아주세요"
+                        ],
+                        "LOGOYN": [
+                            "N"
+                        ],
+                        "JOBNAME": [
+                            "e-그린우편"
+                        ],
+                        "MRDFNAME": [
+                            ""
+                        ],
+                        "LETTERSPACE": [
+                            ""
+                        ],
+                        "MULTI_PAPER": [
+                            "N"
+                        ],
+                        "SOLVUS": [
+                            "N"
+                        ],
+                        "IMAGE_VARIABLE": [
+                            ""
+                        ],
+                        "PRINTTYPE": [
+                            "PS"
+                        ]
+                    }
+                ],
+                "MASTER_SPOOL": [
+                    {
+                        "COUNT": [
+                            "2"
+                        ],
+                        "FILE": [
+                            {
+                                "SPOOL_TYPE": [
+                                    "M"
+                                ],
+                                "NAME": "J1_SPOOL_001.TXT",
+                                "MAILSTART": [
+                                    "1"
+                                ],
+                                "MAILEND": [
+                                    "29"
+                                ],
+                                "PRINT": [
+                                    {
+                                        "MACHINENAME": [
+                                            "Xerox 495cf 2호기"
+                                        ],
+                                        "MACHINEIP": [
+                                            "192.168.20.14"
+                                        ],
+                                        "LANG": [
+                                            "PS"
+                                        ],
+                                        "MACHINEPRINTCHKFLAG": [
+                                            "NO"
+                                        ],
+                                        "MACHINEPRINTPAGE": [
+                                            ""
+                                        ],
+                                        "ITEMSIZE": [
+                                            "210X297"
+                                        ],
+                                        "PRINTCOLORTYPE": [
+                                            "BW"
+                                        ],
+                                        "DUPLEX": [
+                                            "SIMPLEX"
+                                        ],
+                                        "SIDEADDRTYPE": [
+                                            ""
+                                        ],
+                                        "NUP": [
+                                            "1UP"
+                                        ],
+                                        "VARIABLEIMGPATH": [
+                                            ""
+                                        ],
+                                        "OZPATH": [
+                                            "20160819/J160819_001_4763"
+                                        ],
+                                        "BARCODETYPE": [
+                                            "01"
+                                        ],
+                                        "OFFSETSORT": [
+                                            ""
+                                        ]
+                                    }
+                                ],
+                                "DEVICES": [
+                                    {
+                                        "COUNT": [
+                                            "11"
+                                        ],
+                                        "DEV": [
+                                            {
+                                                "NAME": [
+                                                    "XEROX DP-180 2호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.52"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "OCE VP-2110"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.61"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "캐논 IPR C6000"
+                                                ],
+                                                "IP": [
+                                                    "192.168.10.223"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "hart-5060"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.60"
+                                                ],
+                                                "LANG": [
+                                                    "PCL"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "xerox495cf 1호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.13"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "신도리코"
+                                                ],
+                                                "IP": [
+                                                    ""
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox DP-180 3호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.53"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox 495cf 2 호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.14"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "DA70s(봉투 프린터)"
+                                                ],
+                                                "IP": [
+                                                    "마포우체국"
+                                                ],
+                                                "LANG": [
+                                                    "PCL"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox 700-DCP 1호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.81"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox 700-DCP 2호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.82"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "PAPER": [
+                                    {
+                                        "COUNT": [
+                                            "1"
+                                        ],
+                                        "JANG": [
+                                            "표준 A4 일반용지"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "SPOOL_TYPE": [
+                                    "M"
+                                ],
+                                "NAME": "J1_SPOOL_011.TXT",
+                                "MAILSTART": [
+                                    "1"
+                                ],
+                                "MAILEND": [
+                                    "29"
+                                ],
+                                "PRINT": [
+                                    {
+                                        "MACHINENAME": [
+                                            "Xerox 700-DCP 2호기"
+                                        ],
+                                        "MACHINEIP": [
+                                            "192.168.20.82"
+                                        ],
+                                        "LANG": [
+                                            "PS"
+                                        ],
+                                        "MACHINEPRINTCHKFLAG": [
+                                            "NO"
+                                        ],
+                                        "MACHINEPRINTPAGE": [
+                                            ""
+                                        ],
+                                        "ITEMSIZE": [
+                                            "230X110"
+                                        ],
+                                        "PRINTCOLORTYPE": [
+                                            "BW"
+                                        ],
+                                        "DUPLEX": [
+                                            "SIMPLEX"
+                                        ],
+                                        "SIDEADDRTYPE": [
+                                            ""
+                                        ],
+                                        "NUP": [
+                                            ""
+                                        ],
+                                        "VARIABLEIMGPATH": [
+                                            ""
+                                        ],
+                                        "OZPATH": [
+                                            "20160819/J160819_001_4763"
+                                        ],
+                                        "BARCODETYPE": [
+                                            "01"
+                                        ],
+                                        "OFFSETSORT": [
+                                            ""
+                                        ]
+                                    }
+                                ],
+                                "DEVICES": [
+                                    {
+                                        "COUNT": [
+                                            "11"
+                                        ],
+                                        "DEV": [
+                                            {
+                                                "NAME": [
+                                                    "XEROX DP-180 2호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.52"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "OCE VP-2110"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.61"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "캐논 IPR C6000"
+                                                ],
+                                                "IP": [
+                                                    "192.168.10.223"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "hart-5060"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.60"
+                                                ],
+                                                "LANG": [
+                                                    "PCL"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "xerox495cf 1 호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.13"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "신도리코"
+                                                ],
+                                                "IP": [
+                                                    ""
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox DP-180 3호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.53"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox 495cf 2호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.14"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "DA70s(봉투 프린터)"
+                                                ],
+                                                "IP": [
+                                                    "마포우체국"
+                                                ],
+                                                "LANG": [
+                                                    "PCL"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox 700-DCP 1호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.81"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            },
+                                            {
+                                                "NAME": [
+                                                    "Xerox 700-DCP 2호기"
+                                                ],
+                                                "IP": [
+                                                    "192.168.20.82"
+                                                ],
+                                                "LANG": [
+                                                    "PS"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "PAPER": [
+                                    {
+                                        "COUNT": [
+                                            "1"
+                                        ],
+                                        "JANG": [
+                                            "표준 무창 소봉투"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "DETAIL_SPOOL": [
+                    {
+                        "COUNT": [
+                            "0"
+                        ],
+                        "DETAILPRINTROW_0": [
+                            ""
+                        ],
+                        "FILE": [
+                            {
+                                "SPOOL_TYPE": [
+                                    "D"
+                                ],
+                                "NAME": [
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "IMAGE_TYPE": [
+                    "N"
+                ],
+                "IMAGE_INFO": [
+                    {
+                        "IMAGE_FIELD": [
+                            {
+                                "IMAGE_DS": [
+                                    ""
+                                ],
+                                "IMAGE_FIELDNAME": [
+                                    ""
+                                ],
+                                "IMAGE_PATH": [
+                                    ""
+                                ],
+                                "IMAGE_ESSENTIAL": [
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
