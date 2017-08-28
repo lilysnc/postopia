@@ -1,23 +1,85 @@
 ﻿{
     "printers": [
         {
-            "name": "Xerox 495cf 2호기",
-            "driver": "TiMS OCVP2110",
+            "name": "Xerox DP-180 2호기",
+            "driver": "TiMS XEROX-UNIV",
             "trays": [
-                {
-                    "name": "210X297",
-                    "paperSource": "Plain A4"
-                }
+                { "name": "WHITE",  "paperSource": "TRAY 1" },
+                { "name": "RED",    "paperSource": "TRAY 2" },
+                { "name": "BLUE",   "paperSource": "TRAY 3" },
+                { "name": "YELLOW", "paperSource": "TRAY 4" },
+                { "name": "PINK",   "paperSource": "TRAY 5" },
+                { "name": "BUFF",   "paperSource": "TRAY 6" }
             ]
         },
         {
-            "name": "Xerox 700-DCP 2호기",
-            "driver": "TiMS OCVP2110",
+            "name": "Xerox DP-180 3호기",
+            "driver": "TiMS XEROX-UNIV",
             "trays": [
-                {
-                    "name": "230X110",
-                    "paperSource": "Plain A3"
-                }
+                { "name": "WHITE",  "paperSource": "TRAY 1" },
+                { "name": "RED",    "paperSource": "TRAY 2" },
+                { "name": "BLUE",   "paperSource": "TRAY 3" },
+                { "name": "YELLOW", "paperSource": "TRAY 4" },
+                { "name": "PINK",   "paperSource": "TRAY 5" },
+                { "name": "BUFF",   "paperSource": "TRAY 6" }
+            ]
+        },
+        {
+            "name": "Xerox 495cf 2호기",
+            "driver": "TiMS XEROX-UNIV",
+            "trays": [
+                { "name": "WHITE",  "paperSource": "TRAY 1" },
+                { "name": "RED",    "paperSource": "TRAY 2" },
+                { "name": "BLUE",   "paperSource": "TRAY 3" },
+                { "name": "YELLOW", "paperSource": "TRAY 4" },
+                { "name": "PINK",   "paperSource": "TRAY 5" },
+                { "name": "BUFF",   "paperSource": "TRAY 6" }
+            ]
+        },
+        {
+            "name": "Nuvera 288",
+            "driver": "TiMS XEROX-UNIV",
+            "trays": [
+                { "name": "WHITE",  "paperSource": "TRAY 1" },
+                { "name": "RED",    "paperSource": "TRAY 2" },
+                { "name": "BLUE",   "paperSource": "TRAY 3" },
+                { "name": "YELLOW", "paperSource": "TRAY 4" },
+                { "name": "PINK",   "paperSource": "TRAY 5" },
+                { "name": "BUFF",   "paperSource": "TRAY 6" }
+            ]
+        },
+        {
+            "name": "Xerox 700-DCP 3호기",
+            "driver": "TiMS XEROX-UNIV",
+            "trays": [
+                { "name": "WHITE",  "paperSource": "TRAY 1" },
+                { "name": "RED",    "paperSource": "TRAY 2" },
+                { "name": "BLUE",   "paperSource": "TRAY 3" },
+                { "name": "YELLOW", "paperSource": "TRAY 4" },
+                { "name": "PINK",   "paperSource": "TRAY 5" },
+                { "name": "BUFF",   "paperSource": "TRAY 6" }
+            ]
+        },
+        {
+            "name": "OCE VP-2110 2호기",
+            "driver": "TiMS OCE-OCVP2110",
+            "trays": [
+                { "name": "WHITE",  "paperSource": "TRAY 1" },
+                { "name": "RED",    "paperSource": "TRAY 2" },
+                { "name": "BLUE",   "paperSource": "TRAY 3" },
+                { "name": "YELLOW", "paperSource": "TRAY 4" },
+                { "name": "PINK",   "paperSource": "TRAY 5" },
+                { "name": "BUFF",   "paperSource": "TRAY 6" }
+            ]
+        },
+        {
+            "name": "Ricoh VC-60000",
+            "driver": "TiMS XEROX-UNIV",
+            "trays": [
+                { "name": "C1",     "paperSource": "TRAY 1" },
+                { "name": "C2",     "paperSource": "TRAY 2" },
+                { "name": "C3",     "paperSource": "TRAY 3" },
+                { "name": "C4",     "paperSource": "TRAY 4" }
             ]
         }
     ]
